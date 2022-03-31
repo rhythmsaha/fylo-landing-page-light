@@ -21,7 +21,7 @@ const EarlyAccess = () => {
             className="w-full rounded p-3 text-xs text-primary-1 shadow outline-accent-1 placeholder:text-neutral-2 focus:outline-2 lg:text-sm"
             placeholder="email@example.com"
           />
-          <button className="w-full rounded bg-accent-1 p-3 font-sans text-xs font-semibold tracking-wide text-white shadow-sm lg:w-2/4 lg:text-sm">
+          <button className="w-full rounded bg-accent-1 p-3 font-sans text-xs font-semibold tracking-wide text-white shadow-sm transition-all duration-200 hover:bg-blue-500 lg:w-2/4 lg:text-sm">
             Get Started For Free
           </button>
         </div>
